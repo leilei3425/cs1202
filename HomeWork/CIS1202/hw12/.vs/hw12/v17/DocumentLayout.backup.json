@@ -1,0 +1,82 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\cs1202\\HomeWork\\hw12\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E56EEA42-6EA8-4809-B0D5-8875FB34F3F7}|hw12.vcxproj|E:\\cs1202\\HomeWork\\hw12\\Publication.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E56EEA42-6EA8-4809-B0D5-8875FB34F3F7}|hw12.vcxproj|solutionrelative:Publication.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E56EEA42-6EA8-4809-B0D5-8875FB34F3F7}|hw12.vcxproj|E:\\cs1202\\HomeWork\\hw12\\publication.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E56EEA42-6EA8-4809-B0D5-8875FB34F3F7}|hw12.vcxproj|solutionrelative:publication.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E56EEA42-6EA8-4809-B0D5-8875FB34F3F7}|hw12.vcxproj|E:\\cs1202\\HomeWork\\hw12\\hw12.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E56EEA42-6EA8-4809-B0D5-8875FB34F3F7}|hw12.vcxproj|solutionrelative:hw12.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Publication.h",
+              "DocumentMoniker": "E:\\cs1202\\HomeWork\\hw12\\Publication.h",
+              "RelativeDocumentMoniker": "Publication.h",
+              "ToolTip": "E:\\cs1202\\HomeWork\\hw12\\Publication.h",
+              "RelativeToolTip": "Publication.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-22T02:21:43.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Publication.cpp",
+              "DocumentMoniker": "E:\\cs1202\\HomeWork\\hw12\\Publication.cpp",
+              "RelativeDocumentMoniker": "Publication.cpp",
+              "ToolTip": "E:\\cs1202\\HomeWork\\hw12\\Publication.cpp",
+              "RelativeToolTip": "Publication.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-20T02:52:58.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "hw12.cpp",
+              "DocumentMoniker": "E:\\cs1202\\HomeWork\\hw12\\hw12.cpp",
+              "RelativeDocumentMoniker": "hw12.cpp",
+              "ToolTip": "E:\\cs1202\\HomeWork\\hw12\\hw12.cpp",
+              "RelativeToolTip": "hw12.cpp",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAUwNUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-20T02:52:31.65Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\study\\cs1202\\HomeWork\\CIS1202\\hw7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F7A8A818-A478-4B29-8722-EE027D5BB022}|hw7.vcxproj|E:\\study\\cs1202\\HomeWork\\CIS1202\\hw7\\hw7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F7A8A818-A478-4B29-8722-EE027D5BB022}|hw7.vcxproj|solutionrelative:hw7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "hw7.cpp",
+              "DocumentMoniker": "E:\\study\\cs1202\\HomeWork\\CIS1202\\hw7\\hw7.cpp",
+              "RelativeDocumentMoniker": "hw7.cpp",
+              "ToolTip": "E:\\study\\cs1202\\HomeWork\\CIS1202\\hw7\\hw7.cpp",
+              "RelativeToolTip": "hw7.cpp",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACEAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-15T03:45:51.638Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
